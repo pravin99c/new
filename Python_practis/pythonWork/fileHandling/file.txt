@@ -1,0 +1,7 @@
+Python file headling
+"r" - read data
+"w" - write data
+"r+" - read and write data
+"w+" - write and read data
+"a" - append data
+"a+" - append and read data
